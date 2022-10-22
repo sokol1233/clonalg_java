@@ -99,7 +99,7 @@ public class Main extends AbstractClassifier {
 		this.clonalFactor = 0.2;
 		this.antibodyPoolSize = 100;
 		this.selectionPoolSize = 10;
-		this.totalReplacement = 1;
+		this.totalReplacement = 5;
 		this.numGenerations = 100;
 		this.seed = 1;
 		this.remainderPoolRatio = 0.2;
